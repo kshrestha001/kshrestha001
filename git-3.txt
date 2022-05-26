@@ -1,4 +1,0 @@
-1) lunch git gui
-2) open existing repository (repo managed by git)
-3) Create test file
-4) new files are visible under -> unstaged changes
